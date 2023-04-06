@@ -8,3 +8,7 @@ name = "python"
 
 [[transformers]]
 name = "black"
+
+
+[[analyzers]]
+name = "test-coverage"
