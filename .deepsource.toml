@@ -10,4 +10,4 @@ name = "python"
 name = "test-coverage"
 
 [[transformers]]
-name = "test-coverage"
+name = "black"
