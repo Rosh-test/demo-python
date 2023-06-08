@@ -11,4 +11,3 @@ name = "python"
   
 [[transformers]]
 name = "black"
-enabled = true
